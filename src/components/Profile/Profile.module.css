@@ -10,7 +10,7 @@
 
 .profile:hover,
 .profile:focus {
-  transform: scale(1.05);
+  transform: scale(1.01);
   box-shadow: 0px 4px 31px 13px rgba(135, 139, 143, 1);
 }
 
